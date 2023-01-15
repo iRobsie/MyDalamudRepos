@@ -17,7 +17,8 @@
         "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 69420,
-        "LastUpdate": "1671750138"
+	"DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
+	"DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
+        "DownloadCount": 0,
     }
 ]
