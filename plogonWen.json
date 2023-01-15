@@ -6,7 +6,7 @@
         "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor.",
         "InternalName": "ItemVendorLocation",
         "AssemblyVersion": "1.0.0.3",
-        "RepoUrl": "https://github.com/iRobsie/MyDalamudRepos",
+        "RepoUrl": "https://github.com/iRobsie/ItemVendorLocation",
         "ApplicableVersion": "any",
         "Tags": [
 			"vendor",
