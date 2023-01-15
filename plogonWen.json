@@ -1,3 +1,4 @@
+[
 {
   "Author": "electr0sheep + Robsie API bump",
   "Name": "Item Vendor Location",
@@ -16,3 +17,4 @@
   "LoadPriority": 0,
   "Punchline": "Shows you where to buy vendor items"
 }
+]
