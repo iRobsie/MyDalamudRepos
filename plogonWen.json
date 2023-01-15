@@ -1,18 +1,23 @@
-{
-  "Author": "electr0sheep + Robsie API bump",
-  "Name": "Item Vendor Location",
-  "InternalName": "ItemVendorLocation",
-  "AssemblyVersion": "1.0.0.3",
-  "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/iRobsie/MyDalamudRepos",
-  "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/tree/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
-  "Tags": [
-    "vendor",
-    "plugin",
-    "item"
-  ],
-  "DalamudApiLevel": 8,
-  "LoadPriority": 0,
-  "Punchline": "Shows you where to buy vendor items"
-}
+[
+    {
+        "Author": "electr0sheep, Robsie API bump",
+        "Name": "Item Vendor Location",
+        "Punchline": "Shows you where to buy vendor items from context menus.",
+        "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor.",
+        "InternalName": "ItemVendorLocation",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/iRobsie/MyDalamudRepos",
+        "ApplicableVersion": "any",
+        "Tags": [
+			"vendor",
+			"plugin",
+			"item"
+        ],
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/tree/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 69420,
+        "LastUpdate": "1671750138"
+    }
+]
