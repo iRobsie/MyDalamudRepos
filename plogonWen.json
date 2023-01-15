@@ -14,11 +14,11 @@
 			"item"
         ],
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
+        "DownloadLinkInstall": "https://github.com/iRobsie/ItemVendorLocation/raw/main/ItemVendorLocation/bin/Release/net7.0-windows/ItemVendorLocation/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-	"DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
-	"DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/ItemVendorLocations/ItemVendorLocations.zip",
+	"DownloadLinkTesting": "https://github.com/iRobsie/ItemVendorLocation/raw/main/ItemVendorLocation/bin/Release/net7.0-windows/ItemVendorLocation/latest.zip",
+	"DownloadLinkUpdate": "https://github.com/iRobsie/ItemVendorLocation/raw/main/ItemVendorLocation/bin/Release/net7.0-windows/ItemVendorLocation/latest.zip",
         "DownloadCount": 0,
     }
 ]
