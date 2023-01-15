@@ -13,7 +13,7 @@
 			"plugin",
 			"item"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://github.com/iRobsie/ItemVendorLocation/raw/main/ItemVendorLocation/bin/Release/net7.0-windows/ItemVendorLocation/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
