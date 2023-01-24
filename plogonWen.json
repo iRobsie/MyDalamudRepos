@@ -1,27 +1,27 @@
 [
     {
-		"Author": "Cadaeix",
-		"Name": "XIVLogger",
-		"InternalName": "XIVLogger",
-		"AssemblyVersion": "1.0.5.0",
-		"Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy 	logs.",
-		"ApplicableVersion": "any",
-		"RepoUrl": "https://github.com/cadaeix/XIVLogger",
-		"Tags": [
-		"xivlauncher",
-		"plugin",
-		"chat",
-		"chat log"
-		],
+	"Author": "Cadaeix",
+	"Name": "XIVLogger",
+	"InternalName": "XIVLogger",
+	"AssemblyVersion": "1.0.5.0",
+	"Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy 	logs.",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/cadaeix/XIVLogger",
+	"Tags": [
+	"xivlauncher",
+	"plugin",
+	"chat",
+	"chat log"
+	],
         "DalamudApiLevel": 8,
         "Punchline": "Save chat logs to your computer as text files or copy them!",
         "IconUrl": "https://love.puni.sh/resources/artisan.png",
         "Changelog": "- Updated for 6.31",
-        "DownloadLinkInstall": "\MyDalamudRepos\plogons\XIVLogger\latest.zip",
+        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "\MyDalamudRepos\plogons\XIVLogger\latest.zip",
-        "DownloadLinkUpdate": "\MyDalamudRepos\plogons\XIVLogger\latest.zip",
+        "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
+        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
         "LastUpdate": "1674385686"
     },
     {
