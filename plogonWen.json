@@ -4,6 +4,7 @@
 	"Name": "XIVLogger",
 	"InternalName": "XIVLogger",
 	"AssemblyVersion": "1.0.5.0",
+	"RepoUrl": "https://github.com/iRobsie/XIVLogger",
 	"Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy 	logs.",
 	"ApplicableVersion": "any",
 	"Tags": [
@@ -16,11 +17,11 @@
         "Punchline": "Save chat logs to your computer as text files or copy them!",
         "IconUrl": "https://raw.githubusercontent.com/cadaeix/XIVLogger/master/Assets/icon.png",
         "Changelog": "- Updated for 6.31",
-        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
+        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLogger/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
-        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
+        "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLogger/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLogger/latest.zip",
         "LastUpdate": "1674385686"
     },
     {
