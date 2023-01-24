@@ -16,11 +16,11 @@
         "Punchline": "Save chat logs to your computer as text files or copy them!",
         "IconUrl": "https://raw.githubusercontent.com/cadaeix/XIVLogger/master/Assets/icon.png",
         "Changelog": "- Updated for 6.31",
-        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
+        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
-        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.json",
+        "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
+        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/blob/main/plogons/XIVLogger/XIVLogger.zip",
         "LastUpdate": "1674385686"
     },
     {
