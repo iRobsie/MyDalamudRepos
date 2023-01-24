@@ -23,43 +23,5 @@
         "DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLogger/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLogger/latest.zip",
         "LastUpdate": "1674385686"
-    },
-    {
-        "Author": "Puni.sh",
-        "Name": "Avarice",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "InternalName": "Avarice",
-        "AssemblyVersion": "2.0.0.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "combat"
-        ],
-        "DalamudApiLevel": 8,
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "Changelog": "- Minor release for project dependency upgrade, no major changes",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "LastUpdate": "1673455610"
-    },
-    {
-        "Author": "Puni.sh",
-        "Name": "AutoRetainer",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "InternalName": "AutoRetainer",
-        "AssemblyVersion": "2.2.0.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "LastUpdate": "1673905772"
     }
 ]
