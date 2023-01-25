@@ -2,7 +2,7 @@
     {
 	"Author": "Cadaeix + Robsie fix",
 	"Name": "XIVLogger fix",
-	"InternalName": "XIVLogger fix",
+	"InternalName": "XIVLoggerfixed",
 	"AssemblyVersion": "1.0.5.0",
 	"RepoUrl": "https://github.com/iRobsie/XIVLogger",
 	"Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
