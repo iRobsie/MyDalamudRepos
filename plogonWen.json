@@ -22,28 +22,5 @@
 		"DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLoggerfixed/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLoggerfixed/latest.zip",
 		"LastUpdate": "1674385686"
-	},
-	{
-		"Author": "VariableVixen",
-		"Name": "TinyCommands",
-		"InternalName": "TinyCmds",
-		"AssemblyVersion": "7.0.8461.23235",
-		"RepoUrl": "https://github.com/iRobsie/XIVLogger",
-		"Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-		"ApplicableVersion": "any",
-		"Tags": [
-			"xivlauncher",
-			"plugin",
-		],
-		"DalamudApiLevel": 8,
-		"Punchline": "Save chat logs to your computer as text files or copy them!",
-		"IconUrl": "https://raw.githubusercontent.com/cadaeix/XIVLogger/master/Assets/icon.png",
-		"Changelog": "Testing fixes who fucking knows",
-		"DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/TinyCmds/latest.zip",
-		"IsHide": false,
-		"IsTestingExclusive": false,
-		"DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/TinyCmds/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/TinyCmds/latest.zip",
-		"LastUpdate": "1674385686"
 	}
 ]
