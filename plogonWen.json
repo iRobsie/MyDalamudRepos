@@ -15,12 +15,12 @@
 		"DalamudApiLevel": 8,
 		"Punchline": "Save chat logs to your computer as text files or copy them!",
 		"IconUrl": "https://raw.githubusercontent.com/cadaeix/XIVLogger/master/Assets/icon.png",
-		"Changelog": "- Updated for 6.31, also temporary file name change due to conflicts with merging branches.",
-		"DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLoggerfixed/latest.zip",
+		"Changelog": "- Cadaeix Fixed their's, so I removed this for now.",
+		"DownloadLinkInstall": "",
 		"IsHide": false,
 		"IsTestingExclusive": false,
-		"DownloadLinkTesting": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLoggerfixed/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/XIVLoggerfixed/latest.zip",
+		"DownloadLinkTesting": "",
+		"DownloadLinkUpdate": "",
 		"LastUpdate": "1674385686"
 	}
 ]
