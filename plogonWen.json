@@ -1,14 +1,14 @@
 [
   {
     "Author": "attick",
-    "Name": "Mouseover Action",
+    "Name": "Mouseover ActionRip",
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "Tags": [
    	 "Mouseover",
   	  "Macro"
     ],
-    "InternalName": "MOAction",
+    "InternalName": "MOActionRip",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "DownloadCount": 142755,
     "LastUpdate": 1720542569170,
