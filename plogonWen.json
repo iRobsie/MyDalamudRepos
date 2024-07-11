@@ -1,10 +1,10 @@
 [
     {
-      "Author": "attick",
+      "Author": "attickRIP",
       "Name": "Mouseover ActionRIP",
-      "InternalName": "MOAction",
+      "InternalName": "MOActionRip",
       "AssemblyVersion": "4.2.15.0",
-      "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
+      "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pMOAction opens the configuration.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
       "Tags": [
@@ -17,8 +17,8 @@
       "CanUnloadAsync": false,
       "LoadPriority": 0,
       "Punchline": "Mo' actions no problems",
+      "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOActionRIP/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOActionRIP/latest.zip",
       "AcceptsFeedback": true
-      "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
     }
 ]
