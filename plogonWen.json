@@ -1,24 +1,24 @@
 [
     {
-        "Author": "attick",
-        "Name": "Mouseover Action",
-        "Punchline": "Mo' actions no problems",
-        "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
-        "Tags": [
-            "Mouseover",
-            "Macro"
-        ],
-        "InternalName": "MOAction",
-        "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
-        "DownloadCount": 142755,
-        "LastUpdate": 1720542569170,
-        "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
-        "AssemblyVersion": "4.2.15.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "10",
-        "Changelog": "",
-        "TestingAssemblyVersion": "1.3.0.4",
-        "AcceptsFeedback": true
+      "Author": "attick",
+      "Name": "Mouseover ActionRIP",
+      "InternalName": "MOAction",
+      "AssemblyVersion": "4.2.15.0",
+      "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
+      "Tags": [
+        "Mouseover",
+        "Macro"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Mo' actions no problems",
+      "AcceptsFeedback": true
+      "DownloadLinkInstall": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/iRobsie/MyDalamudRepos/raw/main/plogons/MOAction/latest.zip",
     }
 ]
